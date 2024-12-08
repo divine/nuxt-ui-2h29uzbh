@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "devDependencies": {
+    "@nuxt/ui": "3.0.0-alpha.9",
+    "@nuxt/ui-pro": "3.0.0-alpha.9",
+    "nuxt": "^3.12.4",
+    "vue-tsc": "^2.1.10"
+  },
+  "stackblitz": {
+    "installDependencies": false,
+    "startCommand": "pnpm install && pnpm run dev"
+  }
+}
