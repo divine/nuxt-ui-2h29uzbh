@@ -1,5 +1,8 @@
 <template>
   <UContainer class="min-h-screen flex items-center">
+
+    <UPageGrid>testing grid</UPageGrid>
+
     <UCard
       class="flex-1"
       :ui="{
@@ -17,9 +20,3 @@
 </template>
 
 <script setup></script>
-
-<style>
-body {
-  @apply antialiased font-sans text-gray-700 dark:text-gray-200 bg-white dark:bg-gray-900;
-}
-</style>
