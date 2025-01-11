@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@nuxt/ui-pro':
-        specifier: https://pkg.pr.new/@nuxt/ui-pro@a266bc4
-        version: https://pkg.pr.new/@nuxt/ui-pro@a266bc4(@babel/parser@7.26.3)(change-case@5.4.4)(db0@0.2.1)(embla-carousel@8.5.1)(ioredis@5.4.2)(magicast@0.3.5)(radix-vue@1.9.12(vue@3.5.13(typescript@5.6.3)))(rollup@4.30.1)(typescript@5.6.3)(vite@6.0.7(@types/node@22.10.5)(jiti@2.4.2)(lightningcss@1.28.2)(terser@5.37.0)(yaml@2.7.0))(vue@3.5.13(typescript@5.6.3))
+        specifier: https://pkg.pr.new/@nuxt/ui-pro@7676093abc3dc15a4150515106e58199c6ce184f
+        version: https://pkg.pr.new/@nuxt/ui-pro@7676093abc3dc15a4150515106e58199c6ce184f(@babel/parser@7.26.3)(change-case@5.4.4)(db0@0.2.1)(embla-carousel@8.5.1)(ioredis@5.4.2)(magicast@0.3.5)(radix-vue@1.9.12(vue@3.5.13(typescript@5.6.3)))(rollup@4.30.1)(typescript@5.6.3)(vite@6.0.7(@types/node@22.10.5)(jiti@2.4.2)(lightningcss@1.28.2)(terser@5.37.0)(yaml@2.7.0))(vue@3.5.13(typescript@5.6.3))
       nuxt:
         specifier: ^3.15.1
         version: 3.15.1(@parcel/watcher@2.5.0)(@types/node@22.10.5)(db0@0.2.1)(ioredis@5.4.2)(lightningcss@1.28.2)(magicast@0.3.5)(rollup@4.30.1)(terser@5.37.0)(typescript@5.6.3)(vite@6.0.7(@types/node@22.10.5)(jiti@2.4.2)(lightningcss@1.28.2)(terser@5.37.0)(yaml@2.7.0))(vue-tsc@2.2.0(typescript@5.6.3))(yaml@2.7.0)
@@ -611,14 +611,14 @@ packages:
     engines: {node: '>=18.20.5'}
     hasBin: true
 
-  '@nuxt/ui-pro@https://pkg.pr.new/@nuxt/ui-pro@a266bc4':
-    resolution: {tarball: https://pkg.pr.new/@nuxt/ui-pro@a266bc4}
+  '@nuxt/ui-pro@https://pkg.pr.new/@nuxt/ui-pro@7676093abc3dc15a4150515106e58199c6ce184f':
+    resolution: {tarball: https://pkg.pr.new/@nuxt/ui-pro@7676093abc3dc15a4150515106e58199c6ce184f}
     version: 3.0.0-alpha.10
     peerDependencies:
-      typescript: ^5.7.2
+      typescript: ^5.6.3
 
-  '@nuxt/ui@https://pkg.pr.new/@nuxt/ui@4c0bdf3':
-    resolution: {tarball: https://pkg.pr.new/@nuxt/ui@4c0bdf3}
+  '@nuxt/ui@https://pkg.pr.new/@nuxt/ui@11a3f03':
+    resolution: {tarball: https://pkg.pr.new/@nuxt/ui@11a3f03}
     version: 3.0.0-alpha.10
     hasBin: true
     peerDependencies:
@@ -1714,38 +1714,38 @@ packages:
   electron-to-chromium@1.5.78:
     resolution: {integrity: sha512-UmwIt7HRKN1rsJfddG5UG7rCTCTAKoS9JeOy/R0zSenAyaZ8SU3RuXlwcratxhdxGRNpk03iq8O7BA3W7ibLVw==}
 
-  embla-carousel-auto-height@8.5.1:
-    resolution: {integrity: sha512-pH0LlCEX6D2uNf0zuEHPL14YCnlJK+xIlhjcWNy53TG+9qDPgUUwBLBoAdbWro+8/MzqzVf+kHDgsy25jkzu4g==}
+  embla-carousel-auto-height@8.5.2:
+    resolution: {integrity: sha512-cWO35ThnVVr8kSS5zni/Ywf6gNSpROV8PgFTd/jfiQZ73Wd6SltugitVQ74kHfchLXMWXGQgHxmUg4Ya+r4axg==}
     peerDependencies:
-      embla-carousel: 8.5.1
+      embla-carousel: 8.5.2
 
-  embla-carousel-auto-scroll@8.5.1:
-    resolution: {integrity: sha512-fbkZ5+kPHJnJ0aVhRClodnBuaWp8RvV/AW4ex+YhXtvkTld9ApAxmyKQsZzycQc24uz15kzyRjSTNfEvzXPYuQ==}
+  embla-carousel-auto-scroll@8.5.2:
+    resolution: {integrity: sha512-B0QF4vcHRLu7DJwDpgTq5q8qsX4185hOuXfpWPtOlZW+a+QG7ZIN3zTSUTI3Xt0MTWkAB5ZJ0gsFj2zUMKL3ig==}
     peerDependencies:
-      embla-carousel: 8.5.1
+      embla-carousel: 8.5.2
 
-  embla-carousel-autoplay@8.5.1:
-    resolution: {integrity: sha512-FnZklFpePfp8wbj177UwVaGFehgs+ASVcJvYLWTtHuYKURynCc3IdDn2qrn0E5Qpa3g9yeGwCS4p8QkrZmO8xg==}
+  embla-carousel-autoplay@8.5.2:
+    resolution: {integrity: sha512-27emJ0px3q/c0kCHCjwRrEbYcyYUPfGO3g5IBWF1i7714TTzE6L9P81V6PHLoSMAKJ1aHoT2e7YFOsuFKCbyag==}
     peerDependencies:
-      embla-carousel: 8.5.1
+      embla-carousel: 8.5.2
 
-  embla-carousel-class-names@8.5.1:
-    resolution: {integrity: sha512-FBqr6CN3YAL+56OVKLfeaPitd6iEHCBBY1cbFwg+PLHFyuhOwWyWQ8PvNIgmpDvu4rxHuYpDyhRqLVO4x3TqpQ==}
+  embla-carousel-class-names@8.5.2:
+    resolution: {integrity: sha512-hYqvN06fzOs+e3QQKkDTqIxiTdlxSKoMQ7lO7oStRr/u1Gc8kNCBSh2flWmnXAHhZiVxoAX6o4jiBqJGW6xHsQ==}
     peerDependencies:
-      embla-carousel: 8.5.1
+      embla-carousel: 8.5.2
 
-  embla-carousel-fade@8.5.1:
-    resolution: {integrity: sha512-n7vRe2tsTW0vc0Xxtk3APoxhUSXIGh/lGRKYtBJS/SWDeXf9E3qVUst4MfHhwXaHlfu5PLqG3xIEDAr2gwbbNA==}
+  embla-carousel-fade@8.5.2:
+    resolution: {integrity: sha512-QJ46Xy+mpijjquQeIY0d0sPSy34XduREUnz7tn1K20hcKyZYTONNIXQZu3GGNwG59cvhMqYJMw9ki92Rjd14YA==}
     peerDependencies:
-      embla-carousel: 8.5.1
+      embla-carousel: 8.5.2
 
-  embla-carousel-reactive-utils@8.5.1:
-    resolution: {integrity: sha512-n7VSoGIiiDIc4MfXF3ZRTO59KDp820QDuyBDGlt5/65+lumPHxX2JLz0EZ23hZ4eg4vZGUXwMkYv02fw2JVo/A==}
+  embla-carousel-reactive-utils@8.5.2:
+    resolution: {integrity: sha512-QC8/hYSK/pEmqEdU1IO5O+XNc/Ptmmq7uCB44vKplgLKhB/l0+yvYx0+Cv0sF6Ena8Srld5vUErZkT+yTahtDg==}
     peerDependencies:
-      embla-carousel: 8.5.1
+      embla-carousel: 8.5.2
 
-  embla-carousel-vue@8.5.1:
-    resolution: {integrity: sha512-DdWsmiketOzAn6D42A3AQmJ/nndt4ryjBX/RMupl97gJf6oIec5q8Sc3cKuRhCXlLE0RZ7jz3ZlHW7xrT+BJDg==}
+  embla-carousel-vue@8.5.2:
+    resolution: {integrity: sha512-jPZKpst5auGJQ/GRs+UPc7KQGYd/zkwU+bA3m/SDCd4dsTpNScSmfBDWeB/SSUcc6G3z9GV+bOfyAJw1gZLUMA==}
     peerDependencies:
       vue: ^3.2.37
 
@@ -1757,6 +1757,9 @@ packages:
 
   embla-carousel@8.5.1:
     resolution: {integrity: sha512-JUb5+FOHobSiWQ2EJNaueCNT/cQU9L6XWBbWmorWPQT9bkbk+fhsuLr8wWrzXKagO3oWszBO7MSx+GfaRk4E6A==}
+
+  embla-carousel@8.5.2:
+    resolution: {integrity: sha512-xQ9oVLrun/eCG/7ru3R+I5bJ7shsD8fFwLEY7yPe27/+fDHCNj0OT5EoG5ZbFyOxOcG6yTwW8oTz/dWyFnyGpg==}
 
   emoji-regex@8.0.0:
     resolution: {integrity: sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==}
@@ -2619,6 +2622,9 @@ packages:
   pathe@2.0.0:
     resolution: {integrity: sha512-G7n4uhtk9qJt2hlD+UFfsIGY854wpF+zs2bUbQ3CQEUTcn7v25LRsrmurOxTo4bJgjE4qkyshd9ldsEuY9M6xg==}
 
+  pathe@2.0.1:
+    resolution: {integrity: sha512-6jpjMpOth5S9ITVu5clZ7NOgHNsv5vRQdheL9ztp2vZmM6fRbLvyua1tiBIL4lk8SAe3ARzeXEly6siXCjDHDw==}
+
   perfect-debounce@1.0.0:
     resolution: {integrity: sha512-xCy9V055GLEqoFaHoC1SoLIaLmWctgCUaBaWxDZ7/Zx4CTyX7cJQLJOok/orfjZAh9kEYpjJa4d0KcJmCbctZA==}
 
@@ -2889,8 +2895,8 @@ packages:
     resolution: {integrity: sha512-iETxpjK6YoRWJG5o6hXLwvjYAoW+FEZn9os0PD/b6AP6xQwsa/Y7lCVgIixBbUPMfhu+i2LtdeAqVTgGlQarfA==}
     hasBin: true
 
-  reka-ui@1.0.0-alpha.7:
-    resolution: {integrity: sha512-4HnBz4xml1h63K/ZkYfy3+UGOLcuNnCD9TLqwwKNb3LUbUAh/bXpUeYPkm3cYOtXz/TPbhwJIWNr/ZX7cFKfDQ==}
+  reka-ui@1.0.0-alpha.8:
+    resolution: {integrity: sha512-FmAUxWFLWtvbheBLvjgotR/RsE1KSjciMJOLmo7wL0Sbe+sW7M35O8K6f141a0Vc1cE0mH57UHcWBuVpeJNQNA==}
     peerDependencies:
       vue: '>= 3.2.0'
 
@@ -4349,11 +4355,11 @@ snapshots:
       - rollup
       - supports-color
 
-  '@nuxt/ui-pro@https://pkg.pr.new/@nuxt/ui-pro@a266bc4(@babel/parser@7.26.3)(change-case@5.4.4)(db0@0.2.1)(embla-carousel@8.5.1)(ioredis@5.4.2)(magicast@0.3.5)(radix-vue@1.9.12(vue@3.5.13(typescript@5.6.3)))(rollup@4.30.1)(typescript@5.6.3)(vite@6.0.7(@types/node@22.10.5)(jiti@2.4.2)(lightningcss@1.28.2)(terser@5.37.0)(yaml@2.7.0))(vue@3.5.13(typescript@5.6.3))':
+  '@nuxt/ui-pro@https://pkg.pr.new/@nuxt/ui-pro@7676093abc3dc15a4150515106e58199c6ce184f(@babel/parser@7.26.3)(change-case@5.4.4)(db0@0.2.1)(embla-carousel@8.5.1)(ioredis@5.4.2)(magicast@0.3.5)(radix-vue@1.9.12(vue@3.5.13(typescript@5.6.3)))(rollup@4.30.1)(typescript@5.6.3)(vite@6.0.7(@types/node@22.10.5)(jiti@2.4.2)(lightningcss@1.28.2)(terser@5.37.0)(yaml@2.7.0))(vue@3.5.13(typescript@5.6.3))':
     dependencies:
       '@nuxt/kit': 3.15.1(magicast@0.3.5)(rollup@4.30.1)
       '@nuxt/schema': 3.15.1
-      '@nuxt/ui': https://pkg.pr.new/@nuxt/ui@4c0bdf3(@babel/parser@7.26.3)(change-case@5.4.4)(db0@0.2.1)(embla-carousel@8.5.1)(ioredis@5.4.2)(magicast@0.3.5)(radix-vue@1.9.12(vue@3.5.13(typescript@5.6.3)))(rollup@4.30.1)(typescript@5.6.3)(vite@6.0.7(@types/node@22.10.5)(jiti@2.4.2)(lightningcss@1.28.2)(terser@5.37.0)(yaml@2.7.0))(vue@3.5.13(typescript@5.6.3))
+      '@nuxt/ui': https://pkg.pr.new/@nuxt/ui@11a3f03(@babel/parser@7.26.3)(change-case@5.4.4)(db0@0.2.1)(embla-carousel@8.5.1)(ioredis@5.4.2)(magicast@0.3.5)(radix-vue@1.9.12(vue@3.5.13(typescript@5.6.3)))(rollup@4.30.1)(typescript@5.6.3)(vite@6.0.7(@types/node@22.10.5)(jiti@2.4.2)(lightningcss@1.28.2)(terser@5.37.0)(yaml@2.7.0))(vue@3.5.13(typescript@5.6.3))
       '@vueuse/core': 12.3.0(typescript@5.6.3)
       consola: 3.3.3
       defu: 6.1.4
@@ -4403,7 +4409,7 @@ snapshots:
       - vite
       - vue
 
-  '@nuxt/ui@https://pkg.pr.new/@nuxt/ui@4c0bdf3(@babel/parser@7.26.3)(change-case@5.4.4)(db0@0.2.1)(embla-carousel@8.5.1)(ioredis@5.4.2)(magicast@0.3.5)(radix-vue@1.9.12(vue@3.5.13(typescript@5.6.3)))(rollup@4.30.1)(typescript@5.6.3)(vite@6.0.7(@types/node@22.10.5)(jiti@2.4.2)(lightningcss@1.28.2)(terser@5.37.0)(yaml@2.7.0))(vue@3.5.13(typescript@5.6.3))':
+  '@nuxt/ui@https://pkg.pr.new/@nuxt/ui@11a3f03(@babel/parser@7.26.3)(change-case@5.4.4)(db0@0.2.1)(embla-carousel@8.5.1)(ioredis@5.4.2)(magicast@0.3.5)(radix-vue@1.9.12(vue@3.5.13(typescript@5.6.3)))(rollup@4.30.1)(typescript@5.6.3)(vite@6.0.7(@types/node@22.10.5)(jiti@2.4.2)(lightningcss@1.28.2)(terser@5.37.0)(yaml@2.7.0))(vue@3.5.13(typescript@5.6.3))':
     dependencies:
       '@iconify/vue': 4.3.0(vue@3.5.13(typescript@5.6.3))
       '@internationalized/date': 3.6.0
@@ -4424,12 +4430,12 @@ snapshots:
       color: 4.2.3
       consola: 3.3.3
       defu: 6.1.4
-      embla-carousel-auto-height: 8.5.1(embla-carousel@8.5.1)
-      embla-carousel-auto-scroll: 8.5.1(embla-carousel@8.5.1)
-      embla-carousel-autoplay: 8.5.1(embla-carousel@8.5.1)
-      embla-carousel-class-names: 8.5.1(embla-carousel@8.5.1)
-      embla-carousel-fade: 8.5.1(embla-carousel@8.5.1)
-      embla-carousel-vue: 8.5.1(vue@3.5.13(typescript@5.6.3))
+      embla-carousel-auto-height: 8.5.2(embla-carousel@8.5.1)
+      embla-carousel-auto-scroll: 8.5.2(embla-carousel@8.5.1)
+      embla-carousel-autoplay: 8.5.2(embla-carousel@8.5.1)
+      embla-carousel-class-names: 8.5.2(embla-carousel@8.5.1)
+      embla-carousel-fade: 8.5.2(embla-carousel@8.5.1)
+      embla-carousel-vue: 8.5.2(vue@3.5.13(typescript@5.6.3))
       embla-carousel-wheel-gestures: 8.0.1(embla-carousel@8.5.1)
       fuse.js: 7.0.0
       get-port-please: 3.1.2
@@ -4437,15 +4443,15 @@ snapshots:
       magic-string: 0.30.17
       mlly: 1.7.3
       ohash: 1.1.4
-      pathe: 1.1.2
-      reka-ui: 1.0.0-alpha.7(typescript@5.6.3)(vue@3.5.13(typescript@5.6.3))
+      pathe: 2.0.1
+      reka-ui: 1.0.0-alpha.8(typescript@5.6.3)(vue@3.5.13(typescript@5.6.3))
       scule: 1.3.0
       sirv: 3.0.0
       tailwind-variants: 0.3.0(tailwindcss@4.0.0-beta.8)
       tailwindcss: 4.0.0-beta.8
       tinyglobby: 0.2.10
       typescript: 5.6.3
-      unplugin: 1.16.0
+      unplugin: 2.1.2
       unplugin-auto-import: 0.19.0(@nuxt/kit@3.15.1(magicast@0.3.5)(rollup@4.30.1))(@vueuse/core@12.3.0(typescript@5.6.3))(rollup@4.30.1)
       unplugin-vue-components: 0.28.0(@babel/parser@7.26.3)(@nuxt/kit@3.15.1(magicast@0.3.5)(rollup@4.30.1))(rollup@4.30.1)(vue@3.5.13(typescript@5.6.3))
       vaul-vue: 0.2.0(radix-vue@1.9.12(vue@3.5.13(typescript@5.6.3)))(vue@3.5.13(typescript@5.6.3))
@@ -5619,34 +5625,34 @@ snapshots:
 
   electron-to-chromium@1.5.78: {}
 
-  embla-carousel-auto-height@8.5.1(embla-carousel@8.5.1):
+  embla-carousel-auto-height@8.5.2(embla-carousel@8.5.1):
     dependencies:
       embla-carousel: 8.5.1
 
-  embla-carousel-auto-scroll@8.5.1(embla-carousel@8.5.1):
+  embla-carousel-auto-scroll@8.5.2(embla-carousel@8.5.1):
     dependencies:
       embla-carousel: 8.5.1
 
-  embla-carousel-autoplay@8.5.1(embla-carousel@8.5.1):
+  embla-carousel-autoplay@8.5.2(embla-carousel@8.5.1):
     dependencies:
       embla-carousel: 8.5.1
 
-  embla-carousel-class-names@8.5.1(embla-carousel@8.5.1):
+  embla-carousel-class-names@8.5.2(embla-carousel@8.5.1):
     dependencies:
       embla-carousel: 8.5.1
 
-  embla-carousel-fade@8.5.1(embla-carousel@8.5.1):
+  embla-carousel-fade@8.5.2(embla-carousel@8.5.1):
     dependencies:
       embla-carousel: 8.5.1
 
-  embla-carousel-reactive-utils@8.5.1(embla-carousel@8.5.1):
+  embla-carousel-reactive-utils@8.5.2(embla-carousel@8.5.2):
     dependencies:
-      embla-carousel: 8.5.1
+      embla-carousel: 8.5.2
 
-  embla-carousel-vue@8.5.1(vue@3.5.13(typescript@5.6.3)):
+  embla-carousel-vue@8.5.2(vue@3.5.13(typescript@5.6.3)):
     dependencies:
-      embla-carousel: 8.5.1
-      embla-carousel-reactive-utils: 8.5.1(embla-carousel@8.5.1)
+      embla-carousel: 8.5.2
+      embla-carousel-reactive-utils: 8.5.2(embla-carousel@8.5.2)
       vue: 3.5.13(typescript@5.6.3)
 
   embla-carousel-wheel-gestures@8.0.1(embla-carousel@8.5.1):
@@ -5655,6 +5661,8 @@ snapshots:
       wheel-gestures: 2.2.48
 
   embla-carousel@8.5.1: {}
+
+  embla-carousel@8.5.2: {}
 
   emoji-regex@8.0.0: {}
 
@@ -6709,6 +6717,8 @@ snapshots:
 
   pathe@2.0.0: {}
 
+  pathe@2.0.1: {}
+
   perfect-debounce@1.0.0: {}
 
   picocolors@1.1.1: {}
@@ -6975,7 +6985,7 @@ snapshots:
 
   regexp-tree@0.1.27: {}
 
-  reka-ui@1.0.0-alpha.7(typescript@5.6.3)(vue@3.5.13(typescript@5.6.3)):
+  reka-ui@1.0.0-alpha.8(typescript@5.6.3)(vue@3.5.13(typescript@5.6.3)):
     dependencies:
       '@floating-ui/dom': 1.6.13
       '@floating-ui/vue': 1.1.6(vue@3.5.13(typescript@5.6.3))
@@ -6987,7 +6997,6 @@ snapshots:
       aria-hidden: 1.2.4
       defu: 6.1.4
       ohash: 1.1.4
-      uncrypto: 0.1.3
       vue: 3.5.13(typescript@5.6.3)
     transitivePeerDependencies:
       - '@vue/composition-api'

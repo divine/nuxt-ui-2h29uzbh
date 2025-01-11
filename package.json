@@ -11,7 +11,7 @@
     "typecheck": "nuxt typecheck"
   },
   "devDependencies": {
-    "@nuxt/ui-pro": "https://pkg.pr.new/@nuxt/ui-pro@a266bc4",
+    "@nuxt/ui-pro": "https://pkg.pr.new/@nuxt/ui-pro@7676093abc3dc15a4150515106e58199c6ce184f",
     "nuxt": "^3.15.1",
     "typescript": "5.6.3",
     "vue-tsc": "^2.2.0"
