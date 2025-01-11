@@ -19,5 +19,8 @@
   "stackblitz": {
     "installDependencies": false,
     "startCommand": "pnpm install && pnpm run dev"
+  },
+  "dependencies": {
+    "@nuxt/content": "^2.13.4"
   }
 }
